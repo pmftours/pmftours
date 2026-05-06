@@ -1,4 +1,4 @@
-// ============================================
+﻿// ============================================
 // PMF TOURS - OPTIMIZED JAVASCRIPT v2.5
 // FIXES: Precios en español, traducción botón reseñas
 // ============================================
@@ -21,9 +21,9 @@
 
             // HERO
             heroTitle: "Your Gateway to Panama",
-            heroSubtitle: "Private Transport & Tours with safety, punctuality and authentic experiences",
-            heroBtn1: "Book Tour",
-            heroBtn2: "View Packages",
+            heroSubtitle: "Experience the magic of Panama with a local guide who knows every corner. Private tours & safe transport - adventures you will treasure forever.",
+            heroBtn1: "Book Your Adventure",
+            heroBtn2: "Explore Packages",
 
             // HOW IT WORKS
             howItWorksLabel: "Simple Process",
@@ -40,11 +40,11 @@
             // ABOUT
             aboutLabel: "Our Story",
             aboutTitle: "About PMF Tours",
-            aboutHighlightText: "Founded by Pierre Flores, from the Land of the Canal, 100% Panamanian passionate about his country, its customs and culture.",
-            aboutDesc: "We are a local company dedicated to private transport and personalized tours in Panama. We offer authentic experiences that connect you with the true essence of our country.",
-            aboutCTA: "Contact Pierre",
-            aboutBadge: "Panamanian at heart",
-            aboutPierreTitle: "Founder",
+            aboutHighlightText: "Founded by Pierre Flores, a passionate Panamanian who lives and breathes his country soul - sharing its beauty, traditions, and authentic spirit with travelers like you.",
+            aboutDesc: "Were more than a transport company. Were locals whove turned our love for Panama into unforgettable experiences. From hidden gems to iconic landmarks, well show you the real Panama - the one that touches your heart.",
+            aboutCTA: "Connect with Pierre",
+            aboutBadge: "Panama runs through our veins",
+            aboutPierreTitle: "Founder & Local Guide",
 
             // VALORES
             valuesTitle: "Our Values",
@@ -55,11 +55,11 @@
 
             // SERVICIOS
             servicesLabel: "Our Packages",
-            servicesTitle: "Experiences designed for you",
-            servicesSubtitle: "Discover the best of Panama with comfort and security.",
-            customTitle: "Looking for a unique experience?",
-            customDesc: "We specialize in creating memorable experiences tailored to your interests.",
-            customBtn: "Design Your Tour",
+            servicesTitle: "Journeys crafted for you",
+            servicesSubtitle: "Each tour is a story waiting to unfold. From coastal escapes to urban adventures, well design the perfect experience.",
+            customTitle: "Dreaming of something special?",
+            customDesc: "Tell us your vision, and well create a tour thats uniquely yours - tailored to your pace, interests, and spirit.",
+            customBtn: "Design Your Perfect Tour",
 
             // GALERÍA
             galleryLabel: "Our Gallery",
@@ -75,10 +75,10 @@
             testimonial3: "\"Arrived at 11pm and Pierre was waiting. Impeccable Kia, cold water, 25 minutes to hotel. Luxury service at fair price.\"",
 
             // CTA TESTIMONIOS - TRADUCCIÓN CORREGIDA
-            reviewCTATitle: "Did you travel with us?",
-            reviewCTADesc: "Share your experience and help other travelers",
-            reviewCTAButton: "Leave your review",
-            leaveReview: "⭐ Leave Your Review",
+            reviewCTATitle: "Was your adventure unforgettable?",
+            reviewCTADesc: "Help fellow travelers discover what makes PMF Tours special - share your story",
+            reviewCTAButton: "Share Your Story",
+            leaveReview: "⭐ Share Your Experience",
 
             // FAQ
             faqTitle: "Frequently Asked Questions",
@@ -93,9 +93,9 @@
             faqA4: "Kia Sportage with A/C, luggage space, comfortable seats and cleaning after each service.",
 
             // CTA FINAL
-            ctaFinalTitle: "Ready to discover Panama like a local?",
-            ctaFinalDesc: "Book now and experience Panama authentically with a local guide who knows every corner of the country.",
-            ctaFinalBtn: "Book Now via WhatsApp",
+            ctaFinalTitle: "Ready for an adventure that will change everything?",
+            ctaFinalDesc: "Lets show you Panama the way we know it - authentically, warmly, and unforgettably. Your perfect tour starts with a message.",
+            ctaFinalBtn: "Start Your Journey",
 
             // OTROS
             carTooltip: "Safe and reliable transport!",

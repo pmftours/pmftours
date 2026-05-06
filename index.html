@@ -8,6 +8,7 @@
 
     <!-- Favicons -->
 <link rel="icon" href="./image/favicon/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="./image/favicon/apple-touch-icon.png">
     <!-- Preconnect para fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -58,6 +59,54 @@
             color: #ffffff;
         }
     </style>
+
+    <!-- Schema.org Markup para SEO -->
+    <!-- LocalBusiness Schema -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "LocalBusiness",
+        "name": "PMF Tours",
+        "image": "https://pmftours.com/image/logo.png",
+        "description": "Transporte privado y tours auténticos en Panamá con seguridad, puntualidad y experiencias auténticas.",
+        "url": "https://pmftours.com",
+        "telephone": "+507-6534-7412",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Panamá",
+            "addressCountry": "PA"
+        },
+        "areaServed": "PA",
+        "priceRange": "$$",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.9",
+            "reviewCount": "50"
+        }
+    }
+    </script>
+
+    <!-- Review Schema -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "name": "PMF Tours - Private Transport & Tours in Panama",
+        "description": "Private transportation and customized tours in Panama with authentic experiences and local guides.",
+        "provider": {
+            "@type": "LocalBusiness",
+            "name": "PMF Tours",
+            "url": "https://pmftours.com"
+        },
+        "areaServed": "PA",
+        "serviceType": ["Tour Operator", "Transportation Service"],
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.9",
+            "reviewCount": "50"
+        }
+    }
+    </script>
 </head>
 
 <body>
