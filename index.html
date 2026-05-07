@@ -78,10 +78,16 @@
         "address": {
             "@type": "PostalAddress",
             "streetAddress": "Panamá",
+            "addressLocality": "Panamá",
+            "postalCode": "0801",
             "addressCountry": "PA"
         },
-        "areaServed": "PA",
+        "areaServed": ["PA"],
         "priceRange": "$$",
+        "sameAs": [
+            "https://instagram.com/pmftours",
+            "https://wa.me/50765347412"
+        ],
         "aggregateRating": {
             "@type": "AggregateRating",
             "ratingValue": "4.9",
@@ -90,7 +96,7 @@
     }
     </script>
 
-    <!-- Review Schema -->
+    <!-- Service Schema -->
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
@@ -100,15 +106,25 @@
         "provider": {
             "@type": "LocalBusiness",
             "name": "PMF Tours",
-            "url": "https://pmftours.com"
+            "url": "https://pmftours.com",
+            "image": "https://pmftours.com/image/logo.png",
+            "telephone": "+507-6534-7412",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Panamá",
+                "addressLocality": "Panamá",
+                "postalCode": "0801",
+                "addressCountry": "PA"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.9",
+                "reviewCount": "50"
+            }
         },
         "areaServed": "PA",
         "serviceType": ["Tour Operator", "Transportation Service"],
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "4.9",
-            "reviewCount": "50"
-        }
+        "priceRange": "$$"
     }
     </script>
 </head>
