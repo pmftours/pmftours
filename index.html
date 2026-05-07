@@ -9,6 +9,17 @@
     <!-- Favicons -->
 <link rel="icon" href="./image/favicon/favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon" href="./image/favicon/apple-touch-icon.png">
+
+    <!-- Google Analytics 4 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-XXXXXXXXXX');
+    </script>
+    <!-- INSTRUCCIÓN: Reemplaza G-XXXXXXXXXX con tu ID de medición de Google Analytics 4 -->
+
     <!-- Preconnect para fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -838,6 +849,9 @@
         document.addEventListener('languageChanged', loadServices);
         document.addEventListener('DOMContentLoaded', loadServices);
     </script>
+
+    <!-- Efecto 3D Hover para Imágenes -->
+    <script src="./js/3d-card-effect.js"></script>
 
 </body>
 </html><!-- Cache purge: 01/31/2026 16:45:00 -->
