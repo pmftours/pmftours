@@ -18,3 +18,12 @@ desktop.ini
 # Logs
 *.log
 npm-debug.log*
+
+# Dependencias
+node_modules/
+package-lock.json
+
+# Archivos de desarrollo y prueba
+estructura.txt
+probe-trans.js
+*.bak
