@@ -782,12 +782,7 @@ document.addEventListener('languageChanged', updateWhatsAppMessages);
                 header.classList.remove('scrolled');
             }
 
-            if (currentScroll > lastScroll && currentScroll > 500) {
-                header.style.transform = 'translateY(-100%)';
-            } else {
-                header.style.transform = 'translateY(0)';
-            }
-
+            // Header siempre visible - NO usar translateY que lo oculta
             lastScroll = currentScroll;
         }, 10);
 

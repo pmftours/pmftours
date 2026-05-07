@@ -66,16 +66,16 @@ img {
    HEADER
    ============================================ */
 .header {
-  position: fixed;
-  top: 0;
+  position: fixed !important;
+  top: 0 !important;
   left: 0;
   width: 100%;
   height: var(--header-height);
   background: var(--blanco);
   box-shadow: var(--shadow-sm);
-  z-index: 1000;
+  z-index: 1000 !important;
   transition: var(--transition);
-  will-change: transform;
+  will-change: box-shadow, background;
 }
 
 /* Header con scroll - Efecto visual mejorado */

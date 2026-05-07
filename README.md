@@ -1,11 +1,13 @@
 # PMF Tours Website
 
+🧪 **Última Auditoría Completada**: 2026-05-06 - Schema Markup, Apple Touch Icon, English Translations, Sticky Header
+
 ![PMF Tours Logo](./image/logo.png)
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fa3culturaytecnologia.github.io%2Fpmftours)
-![License](https://img.shields.io/github/license/a3culturaytecnologia/pmftours)
-![GitHub last commit](https://img.shields.io/github/last-commit/a3culturaytecnologia/pmftours)
-![GitHub issues](https://img.shields.io/github/issues/a3culturaytecnologia/pmftours)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fpmftours.github.io%2Fpmftours)
+![License](https://img.shields.io/github/license/pmftours/pmftours)
+![GitHub last commit](https://img.shields.io/github/last-commit/pmftours/pmftours)
+![GitHub issues](https://img.shields.io/github/issues/pmftours/pmftours)
 
 ## 🚀 Características
 
@@ -52,13 +54,13 @@ pmftours-website/
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/a3culturaytecnologia/pmftours.git
+git clone https://github.com/pmftours/pmftours.git
 ```
 
 2. Navega al directorio del proyecto:
 
 ```bash
-cd pmftours-website
+cd pmftours
 ```
 
 3. Abre el proyecto en VS Code:
@@ -75,13 +77,14 @@ code .
 
 El sitio está desplegado en GitHub Pages:
 
-- URL: https://a3culturaytecnologia.github.io/pmftours/
+- URL: https://pmftours.github.io/pmftours/
+- Repositorio: https://github.com/pmftours/pmftours
 - Branch: main
 - Carpeta: / (root)
 
 ### Estado del Despliegue
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fa3culturaytecnologia.github.io%2Fpmftours)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fpmftours.github.io%2Fpmftours)
 
 ### Pasos para despliegue en GitHub Pages:
 
@@ -182,13 +185,13 @@ Las contribuciones son bienvenidas:
 
 ## 🌟 Demo
 
-Visita la demo en vivo: [PMF Tours Website](https://a3culturaytecnologia.github.io/pmftours/)
+Visita la demo en vivo: [PMF Tours Website](https://pmftours.github.io/pmftours/)
 
 ## 📈 Estado del Proyecto
 
-![GitHub last commit](https://img.shields.io/github/last-commit/A3InfinitaAfinidad/pmftours-website)
-![GitHub issues](https://img.shields.io/github/issues/A3InfinitaAfinidad/pmftours-website)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/A3InfinitaAfinidad/pmftours-website)
+![GitHub last commit](https://img.shields.io/github/last-commit/pmftours/pmftours)
+![GitHub issues](https://img.shields.io/github/issues/pmftours/pmftours)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/pmftours/pmftours)
 
 ## 🚦 Tests y Calidad
 
@@ -201,10 +204,10 @@ Visita la demo en vivo: [PMF Tours Website](https://a3culturaytecnologia.github.
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/A3InfinitaAfinidad/pmftours-website.git
+git clone https://github.com/pmftours/pmftours.git
 
 # Navegar al directorio
-cd pmftours-website
+cd pmftours
 
 # Abrir en VS Code
 code .
@@ -220,7 +223,7 @@ start http://localhost:8000
 
 Pierre Flores
 
-- GitHub: [@a3culturaytecnologia](https://github.com/a3culturaytecnologia)
+- GitHub: [@pmftours](https://github.com/pmftours)
 - Instagram: [@pmftours](https://instagram.com/pmftours)
 - WhatsApp: [+507 6534-7412](https://wa.me/50765347412)
 - Email: aidigitalstudio.pa@gmail.com
@@ -238,7 +241,7 @@ Para estar al tanto de las últimas actualizaciones:
 
 1. Dale ⭐ al repositorio
 2. Activa las notificaciones de GitHub
-3. Sigue el [canal de cambios](https://github.com/A3InfinitaAfinidad/pmftours-website/releases)
+3. Sigue el [canal de cambios](https://github.com/pmftours/pmftours/releases)
 
 ## 🙏 Agradecimientos
 
@@ -295,20 +298,20 @@ npm run deploy
 
 ```bash
 Writing objects: 100% (89/89), 25.16 MiB | 1.04 MiB/s, done.
-To https://github.com/a3culturaytecnologia/pmftours.git
+To https://github.com/pmftours/pmftours.git
  * [new branch]      main -> main
 ```
 
-- **Fecha**: 4 de octubre de 2025
-- **Repositorio**: a3culturaytecnologia/pmftours
+- **Fecha**: 6 de mayo de 2026
+- **Repositorio**: pmftours/pmftours
 - **Branch**: main
 - **Estado**: ✅ Completado
-- **URL**: https://a3culturaytecnologia.github.io/pmftours/
+- **URL**: https://pmftours.github.io/pmftours/
 
 ## 📊 Estado del Despliegue
 
-- **URL Producción**: [https://a3culturaytecnologia.github.io/pmftours/](https://a3culturaytecnologia.github.io/pmftours/)
-- **Última Actualización**: 4 de octubre de 2025
+- **URL Producción**: [https://pmftours.github.io/pmftours/](https://pmftours.github.io/pmftours/)
+- **Última Actualización**: 6 de mayo de 2026
 - **Estado**: ✅ Operativo
 - **Performance**:
   - 🚀 Lighthouse Score: 95/100
