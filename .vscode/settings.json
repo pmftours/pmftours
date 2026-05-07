@@ -50,5 +50,10 @@
     "Trackear",
     "webp"
   ],
-  "commentTranslate.hover.enabled": true
+  "commentTranslate.hover.enabled": true,
+  "claudeCodeChat.executable.path": "C:\\Users\\aizpr\\AppData\\Roaming\\npm\\claude.cmd",
+  "chat.planAgent.defaultModel": "Claude Haiku 4.5 (claude-code)",
+  "claudeCode.environmentVariables": [
+    
+  ]
 }
