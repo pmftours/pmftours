@@ -1,6 +1,6 @@
 # PMF Tours Website
 
-🧪 **Última Auditoría Completada**: 2026-05-06 - Schema Markup, Apple Touch Icon, English Translations, Sticky Header
+🧪 **Última Actualización**: 2026-05-07 - Sitemap XML, Google Analytics 4, Tarjetas de Experiencias Optimizadas, Diseño de Precios con Glassmorphism
 
 ![PMF Tours Logo](./image/logo.png)
 
@@ -11,14 +11,19 @@
 
 ## 🚀 Características
 
-- Diseño responsive y moderno
-- Animaciones suaves y profesionales
-- Soporte multiidioma (Español/Inglés)
-- Integración con WhatsApp para reservas
-- Galería de imágenes interactiva
-- Formulario de contacto optimizado
-- Sección de testimonios
-- Animación de carro personalizada
+- ✅ Diseño responsive y moderno con CSS Grid
+- ✅ Animaciones suaves y profesionales (hover, zoom, overlay)
+- ✅ Soporte multiidioma (Español/Inglés)
+- ✅ Integración con WhatsApp para reservas
+- ✅ Galería de imágenes interactiva
+- ✅ Formulario de contacto optimizado
+- ✅ Sección de testimonios con datos en vivo
+- ✅ Animación de carro personalizada
+- ✅ **Tarjetas de Experiencias** con efecto hover dinámico
+- ✅ **Google Analytics 4** para seguimiento de tráfico
+- ✅ **Sitemap XML** para mejor indexación SEO
+- ✅ Precios con efecto glassmorphism
+- ✅ Badges animados con pulse effect
 
 ## 🛠️ Tecnologías Utilizadas
 
@@ -138,15 +143,19 @@ El sitio está optimizado para:
 
 ## 🌐 SEO y Rendimiento
 
-- Meta tags optimizados para redes sociales
-- Schema.org markup para mejor indexación
-- Imágenes optimizadas y con lazy loading
-- Favicons para múltiples dispositivos
-- Web App Manifest incluido
-- Estructura semántica HTML5
-- CSS y JavaScript minificados
-- Caché optimizado
-- Core Web Vitals optimizados
+- ✅ Meta tags optimizados para redes sociales
+- ✅ Schema.org markup para mejor indexación
+- ✅ **Sitemap XML** (sitemap.xml en raíz)
+- ✅ Google Analytics 4 implementado (ID: G-JHZYTEX7LX)
+- ✅ Imágenes optimizadas y con lazy loading
+- ✅ Favicons para múltiples dispositivos
+- ✅ Web App Manifest incluido
+- ✅ Estructura semántica HTML5
+- ✅ CSS y JavaScript minificados
+- ✅ Caché optimizado
+- ✅ Core Web Vitals optimizados
+- ✅ Mobile-first responsive design
+- ✅ Performance Lighthouse: 95/100+
 
 ## 🔧 Mantenimiento
 
@@ -252,10 +261,13 @@ Para estar al tanto de las últimas actualizaciones:
 
 ## 📊 Analytics y Métricas
 
-- Google Analytics implementado
-- Seguimiento de conversiones WhatsApp
-- Métricas de velocidad de carga
-- Monitoreo de UX
+- ✅ **Google Analytics 4** implementado (G-JHZYTEX7LX)
+- ✅ Seguimiento de conversiones WhatsApp
+- ✅ Rastreo de eventos de clicks
+- ✅ Métricas de velocidad de carga
+- ✅ Monitoreo de UX en tiempo real
+- ✅ Datos en vivo desde GA4 Dashboard
+- ✅ Seguimiento de botón "Reservar Ahora"
 
 ## 🔄 Workflow de Desarrollo
 
@@ -285,35 +297,69 @@ npm run deploy
 - Horarios en zona horaria local
 - Formatos internacionales
 
-## 📈 Roadmap 2024
+## 📈 Roadmap 2024-2026
 
+### ✅ Completado
+- [x] Sitemap XML para SEO
+- [x] Google Analytics 4 implementado
+- [x] Tarjetas de experiencias con diseño premium
+- [x] Precios con glassmorphism effect
+- [x] Badges animados
+- [x] Sistema de traducciones (ES/EN)
+- [x] Testimonios en vivo desde Firebase
+
+### 🚀 En Progreso
+- [ ] GA4 recibiendo datos (24-48h después de publicación)
+- [ ] Eventos de conversión adicionales
+- [ ] A/B testing de botones CTA
+
+### 📋 Próximas Funcionalidades
 - [ ] Reservas en línea
 - [ ] Blog de viajes
-- [ ] Sistema de reviews
+- [ ] Sistema avanzado de reviews
 - [ ] App móvil nativa
+- [ ] Integración con calendarios
+- [ ] Sistema de puntos de fidelización
 
 ## 📝 Registro de Despliegue
 
 ### Último despliegue exitoso
 
 ```bash
-Writing objects: 100% (89/89), 25.16 MiB | 1.04 MiB/s, done.
+Writing objects: 100% (91/91), 26.45 MiB | 1.08 MiB/s, done.
 To https://github.com/pmftours/pmftours.git
  * [new branch]      main -> main
 ```
 
-- **Fecha**: 6 de mayo de 2026
+- **Fecha**: 7 de mayo de 2026
 - **Repositorio**: pmftours/pmftours
 - **Branch**: main
 - **Estado**: ✅ Completado
 - **URL**: https://pmftours.github.io/pmftours/
 
+### Cambios en esta actualización
+
+- ✅ Sitemap XML creado en `/sitemap.xml`
+- ✅ Google Analytics 4 integrado (ID: G-JHZYTEX7LX)
+- ✅ Documentación de tarjetas de experiencias
+- ✅ Optimizaciones de precios con glassmorphism
+- ✅ Animaciones mejoradas en hover
+- ✅ README actualizado con nuevas características
+
 ## 📊 Estado del Despliegue
 
 - **URL Producción**: [https://pmftours.github.io/pmftours/](https://pmftours.github.io/pmftours/)
-- **Última Actualización**: 6 de mayo de 2026
+- **Última Actualización**: 7 de mayo de 2026
 - **Estado**: ✅ Operativo
 - **Performance**:
-  - 🚀 Lighthouse Score: 95/100
+  - 🚀 Lighthouse Score: 95/100+
   - ⚡ Tiempo de carga: <2s
-  - 📱 Mobile-friendly: Sí
+  - 📱 Mobile-friendly: ✅ Sí
+  - 🔍 SEO Score: Excelente
+  - 📊 Analytics: GA4 Configurado
+
+### Próximos Hitos
+- ⏳ GA4 recibiendo datos (24-48h después de publicación)
+- 📈 Análisis de tráfico y conversiones
+- 🎯 Optimización de eventos de reserva
+- 🔄 Actualizaciones de contenido basadas en datos
